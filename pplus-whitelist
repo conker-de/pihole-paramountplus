@@ -1,6 +1,9 @@
 ^.+\.pplus\.paramount\.tech$
 ^.+\.paramountplus\.com$
+vod.pplus.paramount.tech
 cdn.privacy.paramount.com
 vod-gcs-cedexis.cbsaavideo.com
 production-cmp.isgprivacy.cbsi.com
 conduit.redfast.com
+cws.conviva.com
+imasdk.googleapis.com
